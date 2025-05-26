@@ -1,0 +1,64 @@
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.GeneratedMSBuildEditorConfig.editorconfig
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.AssemblyInfoInputs.cache
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.AssemblyInfo.cs
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.csproj.CoreCompileInputs.cache
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.MvcApplicationPartsAssemblyInfo.cache
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.RazorAssemblyInfo.cache
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.RazorAssemblyInfo.cs
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\appsettings.Development.json
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\appsettings.json
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\NguyenTranQuangKhai.staticwebassets.runtime.json
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\NguyenTranQuangKhai.exe
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\NguyenTranQuangKhai.deps.json
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\NguyenTranQuangKhai.runtimeconfig.json
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\NguyenTranQuangKhai.dll
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\NguyenTranQuangKhai.pdb
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets.build.json
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets.development.json
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets\msbuild.NguyenTranQuangKhai.Microsoft.AspNetCore.StaticWebAssets.props
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets\msbuild.build.NguyenTranQuangKhai.props
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NguyenTranQuangKhai.props
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NguyenTranQuangKhai.props
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets.pack.json
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\scopedcss\bundle\NguyenTranQuangKhai.styles.css
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\scopedcss\projectbundle\NguyenTranQuangKhai.bundle.scp.css
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.dll
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\refint\NguyenTranQuangKhai.dll
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.pdb
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.genruntimeconfig.cache
+M:\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\ref\NguyenTranQuangKhai.dll
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\appsettings.json
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\NguyenTranQuangKhai.staticwebassets.runtime.json
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\NguyenTranQuangKhai.staticwebassets.endpoints.json
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\NguyenTranQuangKhai.exe
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\NguyenTranQuangKhai.deps.json
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\NguyenTranQuangKhai.runtimeconfig.json
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\NguyenTranQuangKhai.dll
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\bin\Debug\net8.0\NguyenTranQuangKhai.pdb
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.AssemblyInfoInputs.cache
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.AssemblyInfo.cs
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.csproj.CoreCompileInputs.cache
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.RazorAssemblyInfo.cache
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.RazorAssemblyInfo.cs
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\scopedcss\bundle\NguyenTranQuangKhai.styles.css
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\scopedcss\projectbundle\NguyenTranQuangKhai.bundle.scp.css
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets\msbuild.NguyenTranQuangKhai.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets\msbuild.NguyenTranQuangKhai.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets\msbuild.build.NguyenTranQuangKhai.props
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NguyenTranQuangKhai.props
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NguyenTranQuangKhai.props
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.dll
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\refint\NguyenTranQuangKhai.dll
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.pdb
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\NguyenTranQuangKhai.genruntimeconfig.cache
+C:\Users\khai\Documents\Zalo Received Files\NguyenTranQuangKhai\NguyenTranQuangKhai\obj\Debug\net8.0\ref\NguyenTranQuangKhai.dll

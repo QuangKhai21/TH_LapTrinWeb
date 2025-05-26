@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khai\\Documents\\Zalo Received Files\\NguyenTranQuangKhai\\TH_LapTrinWeb\\NguyenTranQuangKhai_Tuan2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD55BC6-8377-4F8C-90B4-C7368026E82E}|NguyenTranQuangKhai\\NguyenTranQuangKhai.csproj|c:\\users\\khai\\documents\\zalo received files\\nguyentranquangkhai\\th_laptrinweb\\nguyentranquangkhai_tuan2\\nguyentranquangkhai\\nguyentranquangkhai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDD55BC6-8377-4F8C-90B4-C7368026E82E}|NguyenTranQuangKhai\\NguyenTranQuangKhai.csproj|solutionrelative:nguyentranquangkhai\\nguyentranquangkhai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD55BC6-8377-4F8C-90B4-C7368026E82E}|NguyenTranQuangKhai\\NguyenTranQuangKhai.csproj|c:\\users\\khai\\documents\\zalo received files\\nguyentranquangkhai\\th_laptrinweb\\nguyentranquangkhai_tuan2\\nguyentranquangkhai\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EDD55BC6-8377-4F8C-90B4-C7368026E82E}|NguyenTranQuangKhai\\NguyenTranQuangKhai.csproj|solutionrelative:nguyentranquangkhai\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD55BC6-8377-4F8C-90B4-C7368026E82E}|NguyenTranQuangKhai\\NguyenTranQuangKhai.csproj|c:\\users\\khai\\documents\\zalo received files\\nguyentranquangkhai\\th_laptrinweb\\nguyentranquangkhai_tuan2\\nguyentranquangkhai\\nguyentranquangkhai.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EDD55BC6-8377-4F8C-90B4-C7368026E82E}|NguyenTranQuangKhai\\NguyenTranQuangKhai.csproj|solutionrelative:nguyentranquangkhai\\nguyentranquangkhai.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\khai\\Documents\\Zalo Received Files\\NguyenTranQuangKhai\\TH_LapTrinWeb\\NguyenTranQuangKhai_Tuan2\\NguyenTranQuangKhai\\.gitignore",
+              "RelativeDocumentMoniker": "NguyenTranQuangKhai\\.gitignore",
+              "ToolTip": "C:\\Users\\khai\\Documents\\Zalo Received Files\\NguyenTranQuangKhai\\TH_LapTrinWeb\\NguyenTranQuangKhai_Tuan2\\NguyenTranQuangKhai\\.gitignore",
+              "RelativeToolTip": "NguyenTranQuangKhai\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-26T13:59:42.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NguyenTranQuangKhai",
+              "DocumentMoniker": "C:\\Users\\khai\\Documents\\Zalo Received Files\\NguyenTranQuangKhai\\TH_LapTrinWeb\\NguyenTranQuangKhai_Tuan2\\NguyenTranQuangKhai\\NguyenTranQuangKhai.csproj",
+              "RelativeDocumentMoniker": "NguyenTranQuangKhai\\NguyenTranQuangKhai.csproj",
+              "ToolTip": "C:\\Users\\khai\\Documents\\Zalo Received Files\\NguyenTranQuangKhai\\TH_LapTrinWeb\\NguyenTranQuangKhai_Tuan2\\NguyenTranQuangKhai\\NguyenTranQuangKhai.csproj",
+              "RelativeToolTip": "NguyenTranQuangKhai\\NguyenTranQuangKhai.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T13:53:45.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NguyenTranQuangKhai",
+              "DocumentMoniker": "C:\\Users\\khai\\Documents\\Zalo Received Files\\NguyenTranQuangKhai\\TH_LapTrinWeb\\NguyenTranQuangKhai_Tuan2\\NguyenTranQuangKhai\\NguyenTranQuangKhai.csproj",
+              "RelativeDocumentMoniker": "NguyenTranQuangKhai\\NguyenTranQuangKhai.csproj",
+              "ToolTip": "C:\\Users\\khai\\Documents\\Zalo Received Files\\NguyenTranQuangKhai\\TH_LapTrinWeb\\NguyenTranQuangKhai_Tuan2\\NguyenTranQuangKhai\\NguyenTranQuangKhai.csproj",
+              "RelativeToolTip": "NguyenTranQuangKhai\\NguyenTranQuangKhai.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T13:53:47.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
