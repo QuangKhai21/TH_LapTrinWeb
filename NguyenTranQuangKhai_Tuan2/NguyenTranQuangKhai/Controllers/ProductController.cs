@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.Mvc;
 using NguyenTranQuangKhai.Models;
-using NguyenTranQuangKhai.Data;
+using NguyenTranQuangKhai.Repositories;
 
 namespace NguyenTranQuangKhai.Controllers
 {
@@ -17,7 +17,7 @@ namespace NguyenTranQuangKhai.Controllers
             _categoryRepo = categoryRepo;
         }
 
-        public IActionResult Index() => View(_productRepo.GetAll());
+        public IActionResult Index() => View(_productRepo.GetAll()); 
 
         public IActionResult Add()
         {
@@ -90,6 +90,4 @@ namespace NguyenTranQuangKhai.Controllers
             return "/images/" + image.FileName;
         }
     }
-
-
 }

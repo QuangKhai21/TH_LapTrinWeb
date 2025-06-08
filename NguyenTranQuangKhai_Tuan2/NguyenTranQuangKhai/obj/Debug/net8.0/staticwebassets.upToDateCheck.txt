@@ -1,8 +1,14 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\laptop.htm
+wwwroot\images\Screenshot 2024-07-19 152651.png
 wwwroot\images\Screenshot 2024-07-19 153119.png
+wwwroot\images\Screenshot 2024-07-19 155541.png
 wwwroot\images\Screenshot 2024-07-25 135432.png
+wwwroot\images\Screenshot 2024-07-25 150123.png
+wwwroot\images\Screenshot 2024-07-25 214727.png
 wwwroot\images\Screenshot 2024-07-25 230503.png
+wwwroot\images\tv.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

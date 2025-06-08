@@ -1,5 +1,5 @@
 using NguyenTranQuangKhai.Controllers;
-using NguyenTranQuangKhai.Data;
+using NguyenTranQuangKhai.Repositories;
 
 
 var builder = WebApplication.CreateBuilder(args);

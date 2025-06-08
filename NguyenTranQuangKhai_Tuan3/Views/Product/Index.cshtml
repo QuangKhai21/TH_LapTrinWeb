@@ -1,0 +1,43 @@
+﻿@model IEnumerable<NguyenTranQuangKhai_Tuan3.Models.Product>
+
+
+<div class="container mt-4">
+    <h2>Danh sách sản phẩm </h2>
+
+    <!-- Nút Thêm sản phẩm -->
+    <a href="/Product/Add" class="btn custom-add-btn mt-2">
+        <i class="bi bi-plus-circle me-1"></i> Thêm sản phẩm
+    </a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Description</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Description</td>
+                <td>@product.Category?.Name </td>
+                
+                    
+                    <td>
+                        <a asp-action="Display" asp-route-id="@product.Id" class="btn btn-primary btn-sm me-1">Chi Tiết</a> |
+                        <a asp-action="Update" asp-route-id="@product.Id" class="btn btn-warning btn-sm me-1">Sửa</a> |
+                        <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger btn-sm">Xóa</a>
+                    </td>
+                    
+                
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
